@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/code",
+      "destination": "https://fndenda-354d74328f43.herokuapp.com/code"
+    },
+    {
+      "source": "/code/:path*",
+      "destination": "https://fndenda-354d74328f43.herokuapp.com/code/:path*"
+    }
+  ]
+}
