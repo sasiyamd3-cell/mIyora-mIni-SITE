@@ -3,11 +3,11 @@
   "rewrites": [
     {
       "source": "/code",
-      "destination": "https://fndenda-354d74328f43.herokuapp.com/code"
+      "destination": "https://fandend-c48a674d95b2.herokuapp.com/code"
     },
     {
       "source": "/code/:path*",
-      "destination": "https://fndenda-354d74328f43.herokuapp.com/code/:path*"
+      "destination": "https://fandend-c48a674d95b2.herokuapp.com//code/:path*"
     }
   ]
 }
